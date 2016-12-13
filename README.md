@@ -3,12 +3,10 @@
 ## Projectの作成
 
 + https://start.spring.io/
-でWeb/Thymeleafを選択する
 + https://github.com/karmickoala/springboot-bootcamp-20161214
-のBootCampを実行する
-+ STS(Spring Tool Suite)のNew Spring Starter Projectで作成（Web/Thymeleaf）
++ STS(Spring Tool Suite)のNew Spring Starter Projectで作成
 
-のいずれかで、SpringMVC/Thymeleafを利用できるようにする。
+のいずれかで、SpringMVC（Web）/Thymeleafを利用できるようにする。
 
 + spring-boot-starter-web
 + spring-boot-starter-thymeleaf
